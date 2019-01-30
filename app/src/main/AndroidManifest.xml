@@ -17,6 +17,7 @@
         <activity android:name=".common.ui.activity.PhotoDetailActivity" />
         <activity android:name=".collection.view.CollectionActivity" />
         <activity android:name=".search.view.SearchActivity" />
+
         <activity android:name=".main.view.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
