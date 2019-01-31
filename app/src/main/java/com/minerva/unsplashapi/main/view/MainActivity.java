@@ -32,7 +32,7 @@ public class MainActivity extends BaseDrawerActivity {
         setContentView(R.layout.activity_main);
 
         toolbar = findViewById(R.id.toolbar);
-        toolbar.setTitle("Django");
+        toolbar.setTitle("Django Collection");
         setSupportActionBar(toolbar);
 
         searchView = findViewById(R.id.search_view);
